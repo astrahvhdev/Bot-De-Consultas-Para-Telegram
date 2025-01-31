@@ -1,3 +1,5 @@
+Bot de Consultas do Telegram
+
 Descrição
 
 O Bot de Consultas do Telegram é uma ferramenta automatizada desenvolvida em PHP para realizar consultas rápidas e eficientes a partir de bases de dados ou APIs externas. Ele permite que usuários obtenham informações valiosas diretamente no Telegram, tornando o processo de busca mais acessível e conveniente.
@@ -93,4 +95,5 @@ Este projeto é distribuído sob a licença MIT. Para mais detalhes, consulte o 
 
 Contato
 
-Caso tenha dúvidas ou precise de suporte, entre em contato pelo Telegram: @SeuUsuario.
+Caso tenha dúvidas ou precise de suporte, entre em contato pelo Telegram: @astrahvhdev.
+
